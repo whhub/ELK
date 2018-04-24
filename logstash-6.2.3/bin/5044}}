@@ -1,0 +1,1 @@
+[ERROR] 2018-04-13 16:35:12.685 [main] Logstash - java.lang.IllegalStateException: org.jruby.exceptions.RaiseException: (SystemExit) exit
