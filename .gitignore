@@ -1,3 +1,5 @@
 result/*
 logs/*
 *.logstash_jdbc_last_run
+*.log
+*.log.gz
