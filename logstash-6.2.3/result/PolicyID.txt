@@ -1,0 +1,51 @@
+PolicyID	PolicyName      	Description  28分20秒查完
+0			null				null
+1			USB只读策略			插入移动存储设备
+3			上网访问审计		审计上传网页	
+4			null				null
+5			null				null
+6			终端设置策略		开机
+7			上网访问审计		审计访问网页
+9			终端设置策略		开机
+21			硬件策略			已禁用USB设备
+29			U盘和光盘读写		插入移动存储设备
+43			无线网卡启用		设备类型：光驱	
+49			U盘和光盘只读		从U盘拷贝文件
+*52			U盘和光盘读写		拷贝文件进入U盘			
+55			文件输出审			审计打印文件
+66			无线网卡禁用		设备类型：光驱
+117			DVD读写				插入移动存储设备
+119			及时通讯禁止组		进程TrustedInstaller.exe修改服务显示名为Windows Modules
+121			进程执行监控[复制]	进程svchost.exe修改服务显示名为Background
+136			硬件不限制			设备类型：无线网卡
+142			安全u盘策略组		插入未注册U盘
+144			手机启用组			设备类型：USB移动存储
+1701		终端设置策略		开机
+87953856	即时通讯禁止组		进程svchost修改服务显示名为Background
+122193840	即时通讯禁止组		进程TrustedInstaller.exe修改服务显示名为Windows Modules
+123289392	即时通讯禁止组		进程TrustedInstaller.exe修改服务显示名为Windows Modules
+128028512	IMOff				进程TrustedInstaller.exe修改服务显示名为Windows Modules
+140643296	即时通讯禁止组		进程svchost修改服务显示名为Background
+141759464 	即时通讯禁止组		进程svchost修改服务显示名为Background
+144719664	IMOff				进程TrustedInstaller.exe修改服务显示名为Windows
+150408160	即时通讯禁止组		进程TrustedInstaller.exe修改服务显示名为Windows
+157944800	即时通讯禁止组		进程svchost修改服务显示名为Background	
+163712960	即时通讯禁止组		进程svchost修改服务显示名为Background
+164399024	即时通讯禁止组		进程TrustedInstaller.exe修改服务显示名为Windows
+165429040	IMOff				进程TrustedInstaller.exe修改服务显示名为Windows
+165625648	即时通讯禁止组		进程TrustedInstaller.exe修改服务显示名为Windows	
+165691184	IMOff				进程TrustedInstaller.exe修改服务显示名为Windows
+166412080	IMOff				进程TrustedInstaller.exe修改服务显示名为Windows
+166477616	即时通讯禁止组		进程TrustedInstaller.exe修改服务显示名为Windows
+167503728
+168050480
+168247144
+175180768
+176570160
+177895552
+181041280
+184621160
+189926368
+193137632
+209064800
+226916552
